@@ -17,10 +17,6 @@ _(hosted on Netlify)_
 - Download scraped data as a CSV
 - Flask backend using Selenium for automated scraping
 
-## 🖼️ UI Preview
-
-![Book Scraper Screenshot](./screenshot.png) <!-- Optional: replace with actual image path -->
-
 ## 📦 Tech Stack
 
 - **Frontend**: Vite + Tailwind CSS + JavaScript
