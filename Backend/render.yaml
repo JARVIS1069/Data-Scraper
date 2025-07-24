@@ -1,7 +1,8 @@
-
 services:
   - type: web
-    name: book-scraper
+    name: book-data-scraper
     env: python
+    region: oregon  # or use frankfurt if you're in Europe
     buildCommand: pip install -r requirements.txt
-    startCommand: bash start.sh
+    startCommand: gunicorn app:app
+    autoDeploy: true
