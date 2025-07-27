@@ -6,7 +6,7 @@ This is a web-based **Book Data Scraper** built with a Vite + Tailwind frontend 
 ## 🌐 Live Demo
 
 👉 [Visit the Website](https://resonant-sorbet-4c146c.netlify.app/)  
-_(hosted on Netlify)_
+
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ _(hosted on Netlify)_
 - **Frontend**: Vite + Tailwind CSS + JavaScript
 - **Backend**: Python Flask
 - **Scraping**: Selenium WebDriver
-- **Hosting**: Netlify (Frontend), Render (optional for Backend)
+- **Hosting**: Netlify (Frontend)
 
 ## 📁 Project Structure
 
